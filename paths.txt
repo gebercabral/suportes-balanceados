@@ -1,0 +1,3 @@
+C:\projetos_java\suportes-balanceados\src\main\java\br\com\gbr\SuportesBalanceadosApplication.java
+C:\projetos_java\suportes-balanceados\src\main\java\br\com\gbr\util\ColchetesUtil.java
+C:\projetos_java\suportes-balanceados\src\test\java\br\com\gbr\Ex1SuportesBalanceadosApplicationTests.java
